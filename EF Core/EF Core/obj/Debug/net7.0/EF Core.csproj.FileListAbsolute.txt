@@ -1,0 +1,27 @@
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\EF Core.exe
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\EF Core.deps.json
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\EF Core.runtimeconfig.json
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\EF Core.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\EF Core.pdb
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.AssemblyInfo.cs
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.csproj.CopyComplete
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\refint\EF Core.dll
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.pdb
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\EF Core.genruntimeconfig.cache
+C:\Users\zehra\source\repos\EF Core\EF Core\obj\Debug\net7.0\ref\EF Core.dll
